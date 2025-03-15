@@ -4,3 +4,4 @@ scikit-learn==1.2.2  # Ensure correct version
 matplotlib==3.7.1  # Compatible version
 seaborn==0.13.2
 streamlit==1.30.0  # Use latest stable version
+streamlit-option-menu
