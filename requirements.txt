@@ -1,8 +1,6 @@
-numpy
-pandas
-scikit-learn
-seaborn
-matplotlib
-streamlit
-pickle
-streamlit-option-menu
+numpy==1.26.4
+pandas==2.1.4  # Compatible with Python 3.9+
+scikit-learn==1.2.2  # Ensure correct version
+matplotlib==3.7.1  # Compatible version
+seaborn==0.13.2
+streamlit==1.30.0  # Use latest stable version
